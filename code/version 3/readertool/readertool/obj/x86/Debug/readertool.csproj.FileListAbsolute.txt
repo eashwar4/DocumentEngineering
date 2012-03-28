@@ -1,0 +1,9 @@
+c:\users\anilgontla\documents\visual studio 2010\Projects\readertool\readertool\bin\Debug\readertool.exe
+c:\users\anilgontla\documents\visual studio 2010\Projects\readertool\readertool\bin\Debug\readertool.pdb
+c:\users\anilgontla\documents\visual studio 2010\Projects\readertool\readertool\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\anilgontla\documents\visual studio 2010\Projects\readertool\readertool\obj\x86\Debug\readertool.Form1.resources
+c:\users\anilgontla\documents\visual studio 2010\Projects\readertool\readertool\obj\x86\Debug\readertool.Properties.Resources.resources
+c:\users\anilgontla\documents\visual studio 2010\Projects\readertool\readertool\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\anilgontla\documents\visual studio 2010\Projects\readertool\readertool\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\anilgontla\documents\visual studio 2010\Projects\readertool\readertool\obj\x86\Debug\readertool.exe
+c:\users\anilgontla\documents\visual studio 2010\Projects\readertool\readertool\obj\x86\Debug\readertool.pdb
