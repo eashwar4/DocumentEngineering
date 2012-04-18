@@ -1,0 +1,141 @@
+c:\users\anilgontla\documents\visual studio 2010\Projects\TEMPLATE\TEMPLATE\bin\Debug\TEMPLATE.exe
+c:\users\anilgontla\documents\visual studio 2010\Projects\TEMPLATE\TEMPLATE\bin\Debug\TEMPLATE.pdb
+c:\users\anilgontla\documents\visual studio 2010\Projects\TEMPLATE\TEMPLATE\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\anilgontla\documents\visual studio 2010\Projects\TEMPLATE\TEMPLATE\obj\x86\Debug\TEMPLATE.Form1.resources
+c:\users\anilgontla\documents\visual studio 2010\Projects\TEMPLATE\TEMPLATE\obj\x86\Debug\TEMPLATE.Properties.Resources.resources
+c:\users\anilgontla\documents\visual studio 2010\Projects\TEMPLATE\TEMPLATE\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\anilgontla\documents\visual studio 2010\Projects\TEMPLATE\TEMPLATE\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\anilgontla\documents\visual studio 2010\Projects\TEMPLATE\TEMPLATE\obj\x86\Debug\TEMPLATE.exe
+c:\users\anilgontla\documents\visual studio 2010\Projects\TEMPLATE\TEMPLATE\obj\x86\Debug\TEMPLATE.pdb
+C:\Users\anilgontla\Documents\Visual Studio 2010\Projects\TEMPLATE\TEMPLATE\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\anilgontla\Documents\Visual Studio 2010\Projects\TEMPLATE\TEMPLATE\bin\Debug\Interop.WMPLib.dll
+C:\Users\anilgontla\Documents\Visual Studio 2010\Projects\TEMPLATE\TEMPLATE\bin\Debug\Interop.XcpControlLib.dll
+C:\Users\anilgontla\Documents\Visual Studio 2010\Projects\TEMPLATE\TEMPLATE\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\anilgontla\Documents\Visual Studio 2010\Projects\TEMPLATE\TEMPLATE\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\anilgontla\Documents\Visual Studio 2010\Projects\TEMPLATE\TEMPLATE\bin\Debug\AxInterop.XcpControlLib.dll
+C:\Users\anilgontla\Documents\Visual Studio 2010\Projects\TEMPLATE\TEMPLATE\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\anilgontla\Documents\Visual Studio 2010\Projects\TEMPLATE\TEMPLATE\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\anilgontla\Documents\Visual Studio 2010\Projects\TEMPLATE\TEMPLATE\obj\x86\Debug\Interop.XcpControlLib.dll
+C:\Users\anilgontla\Documents\Visual Studio 2010\Projects\TEMPLATE\TEMPLATE\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\anilgontla\Documents\Visual Studio 2010\Projects\TEMPLATE\TEMPLATE\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\anilgontla\Documents\Visual Studio 2010\Projects\TEMPLATE\TEMPLATE\obj\x86\Debug\AxInterop.XcpControlLib.dll
+C:\Users\anilgontla\Documents\Visual Studio 2010\Projects\TEMPLATE\TEMPLATE\obj\x86\Debug\TEMPLATE.csproj.ResolveComReference.cache
+C:\Users\anilgontla\Desktop\anil DM DEMO\TEMPLATE\TEMPLATE\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\anilgontla\Desktop\anil DM DEMO\TEMPLATE\TEMPLATE\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\anilgontla\Desktop\anil DM DEMO\TEMPLATE\TEMPLATE\obj\x86\Debug\Interop.XcpControlLib.dll
+C:\Users\anilgontla\Desktop\anil DM DEMO\TEMPLATE\TEMPLATE\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\anilgontla\Desktop\anil DM DEMO\TEMPLATE\TEMPLATE\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\anilgontla\Desktop\anil DM DEMO\TEMPLATE\TEMPLATE\obj\x86\Debug\AxInterop.XcpControlLib.dll
+C:\Users\anilgontla\Desktop\anil DM DEMO\TEMPLATE\TEMPLATE\obj\x86\Debug\TEMPLATE.csproj.ResolveComReference.cache
+C:\Users\anilgontla\Desktop\anil DM DEMO\TEMPLATE\TEMPLATE\obj\x86\Debug\TEMPLATE.exe
+C:\Users\anilgontla\Desktop\anil DM DEMO\TEMPLATE\TEMPLATE\obj\x86\Debug\TEMPLATE.pdb
+C:\Users\anilgontla\Desktop\TEMPLATE\TEMPLATE\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\anilgontla\Desktop\TEMPLATE\TEMPLATE\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\anilgontla\Desktop\TEMPLATE\TEMPLATE\obj\x86\Debug\Interop.XcpControlLib.dll
+C:\Users\anilgontla\Desktop\TEMPLATE\TEMPLATE\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\anilgontla\Desktop\TEMPLATE\TEMPLATE\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\anilgontla\Desktop\TEMPLATE\TEMPLATE\obj\x86\Debug\AxInterop.XcpControlLib.dll
+C:\Users\anilgontla\Desktop\TEMPLATE\TEMPLATE\obj\x86\Debug\TEMPLATE.csproj.ResolveComReference.cache
+C:\Users\anilgontla\Desktop\TEMPLATE\TEMPLATE\obj\x86\Debug\TEMPLATE.exe
+C:\Users\anilgontla\Desktop\TEMPLATE\TEMPLATE\obj\x86\Debug\TEMPLATE.pdb
+C:\Users\anilgontla\Desktop\TEMPLATE\TEMPLATE\bin\Debug\TEMPLATE.exe
+C:\Users\anilgontla\Desktop\TEMPLATE\TEMPLATE\bin\Debug\TEMPLATE.pdb
+C:\Users\anilgontla\Desktop\TEMPLATE\TEMPLATE\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\anilgontla\Desktop\TEMPLATE\TEMPLATE\bin\Debug\Interop.WMPLib.dll
+C:\Users\anilgontla\Desktop\TEMPLATE\TEMPLATE\bin\Debug\Interop.XcpControlLib.dll
+C:\Users\anilgontla\Desktop\TEMPLATE\TEMPLATE\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\anilgontla\Desktop\TEMPLATE\TEMPLATE\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\anilgontla\Desktop\TEMPLATE\TEMPLATE\bin\Debug\AxInterop.XcpControlLib.dll
+C:\Users\anilgontla\Desktop\TEMPLATE\TEMPLATE\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\anilgontla\Desktop\TEMPLATE\TEMPLATE\obj\x86\Debug\TEMPLATE.Form1.resources
+C:\Users\anilgontla\Desktop\TEMPLATE\TEMPLATE\obj\x86\Debug\TEMPLATE.Properties.Resources.resources
+C:\Users\anilgontla\Desktop\TEMPLATE\TEMPLATE\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\anilgontla\Desktop\TEMPLATE\TEMPLATE\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Nishanth\Desktop\readertool\10-APR-12-12-50\TEMPLATE\TEMPLATE\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Nishanth\Desktop\readertool\10-APR-12-12-50\TEMPLATE\TEMPLATE\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Nishanth\Desktop\readertool\10-APR-12-12-50\TEMPLATE\TEMPLATE\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Nishanth\Desktop\readertool\10-APR-12-12-50\TEMPLATE\TEMPLATE\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Nishanth\Desktop\readertool\10-APR-12-12-50\TEMPLATE\TEMPLATE\obj\x86\Debug\TEMPLATE.csproj.ResolveComReference.cache
+C:\Users\Nishanth\Desktop\readertool\10-APR-12-12-50\TEMPLATE\TEMPLATE\obj\x86\Debug\TEMPLATE.exe
+C:\Users\Nishanth\Desktop\readertool\10-APR-12-12-50\TEMPLATE\TEMPLATE\obj\x86\Debug\TEMPLATE.pdb
+C:\Users\Nishanth\Desktop\readertool\10-APR-12-12-50\TEMPLATE\TEMPLATE\bin\Debug\TEMPLATE.exe
+C:\Users\Nishanth\Desktop\readertool\10-APR-12-12-50\TEMPLATE\TEMPLATE\bin\Debug\TEMPLATE.pdb
+C:\Users\Nishanth\Desktop\readertool\10-APR-12-12-50\TEMPLATE\TEMPLATE\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Nishanth\Desktop\readertool\10-APR-12-12-50\TEMPLATE\TEMPLATE\bin\Debug\Interop.WMPLib.dll
+C:\Users\Nishanth\Desktop\readertool\10-APR-12-12-50\TEMPLATE\TEMPLATE\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Nishanth\Desktop\readertool\10-APR-12-12-50\TEMPLATE\TEMPLATE\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Nishanth\Desktop\readertool\10-APR-12-12-50\TEMPLATE\TEMPLATE\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Nishanth\Desktop\readertool\10-APR-12-12-50\TEMPLATE\TEMPLATE\obj\x86\Debug\TEMPLATE.Form1.resources
+C:\Users\Nishanth\Desktop\readertool\10-APR-12-12-50\TEMPLATE\TEMPLATE\obj\x86\Debug\TEMPLATE.Properties.Resources.resources
+C:\Users\Nishanth\Desktop\readertool\10-APR-12-12-50\TEMPLATE\TEMPLATE\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Nishanth\Desktop\readertool\10-APR-12-12-50\TEMPLATE\TEMPLATE\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\vyshak\Desktop\READERTOOL\10-APR-12-12-50\TEMPLATE\TEMPLATE\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\vyshak\Desktop\READERTOOL\10-APR-12-12-50\TEMPLATE\TEMPLATE\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\vyshak\Desktop\READERTOOL\10-APR-12-12-50\TEMPLATE\TEMPLATE\obj\x86\Debug\Interop.XcpControlLib.dll
+C:\Users\vyshak\Desktop\READERTOOL\10-APR-12-12-50\TEMPLATE\TEMPLATE\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\vyshak\Desktop\READERTOOL\10-APR-12-12-50\TEMPLATE\TEMPLATE\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\vyshak\Desktop\READERTOOL\10-APR-12-12-50\TEMPLATE\TEMPLATE\obj\x86\Debug\AxInterop.XcpControlLib.dll
+C:\Users\vyshak\Desktop\READERTOOL\10-APR-12-12-50\TEMPLATE\TEMPLATE\obj\x86\Debug\TEMPLATE.csproj.ResolveComReference.cache
+C:\Users\vyshak\Desktop\READERTOOL\10-APR-12-12-50\TEMPLATE\TEMPLATE\bin\Debug\TEMPLATE.exe
+C:\Users\vyshak\Desktop\READERTOOL\10-APR-12-12-50\TEMPLATE\TEMPLATE\bin\Debug\TEMPLATE.pdb
+C:\Users\vyshak\Desktop\READERTOOL\10-APR-12-12-50\TEMPLATE\TEMPLATE\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\vyshak\Desktop\READERTOOL\10-APR-12-12-50\TEMPLATE\TEMPLATE\bin\Debug\Interop.WMPLib.dll
+C:\Users\vyshak\Desktop\READERTOOL\10-APR-12-12-50\TEMPLATE\TEMPLATE\bin\Debug\Interop.XcpControlLib.dll
+C:\Users\vyshak\Desktop\READERTOOL\10-APR-12-12-50\TEMPLATE\TEMPLATE\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\vyshak\Desktop\READERTOOL\10-APR-12-12-50\TEMPLATE\TEMPLATE\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\vyshak\Desktop\READERTOOL\10-APR-12-12-50\TEMPLATE\TEMPLATE\bin\Debug\AxInterop.XcpControlLib.dll
+C:\Users\vyshak\Desktop\READERTOOL\10-APR-12-12-50\TEMPLATE\TEMPLATE\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\vyshak\Desktop\READERTOOL\10-APR-12-12-50\TEMPLATE\TEMPLATE\obj\x86\Debug\TEMPLATE.Form1.resources
+C:\Users\vyshak\Desktop\READERTOOL\10-APR-12-12-50\TEMPLATE\TEMPLATE\obj\x86\Debug\TEMPLATE.Properties.Resources.resources
+C:\Users\vyshak\Desktop\READERTOOL\10-APR-12-12-50\TEMPLATE\TEMPLATE\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\vyshak\Desktop\READERTOOL\10-APR-12-12-50\TEMPLATE\TEMPLATE\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\vyshak\Desktop\READERTOOL\10-APR-12-12-50\TEMPLATE\TEMPLATE\obj\x86\Debug\TEMPLATE.exe
+C:\Users\vyshak\Desktop\READERTOOL\10-APR-12-12-50\TEMPLATE\TEMPLATE\obj\x86\Debug\TEMPLATE.pdb
+C:\Users\vyshak\Desktop\READERTOOL\10-APR-12-12-50\TEMPLATE\TEMPLATE\bin\Debug\ZipForge.dll
+C:\Users\vyshak\Desktop\READERTOOL\10-APR-12-12-50\TEMPLATE\TEMPLATE\bin\Debug\ZipForge.xml
+C:\Users\vyshak\Desktop\Final_DM_Project\10-APR-12-12-50\TEMPLATE\TEMPLATE\bin\Debug\TEMPLATE.exe
+C:\Users\vyshak\Desktop\Final_DM_Project\10-APR-12-12-50\TEMPLATE\TEMPLATE\bin\Debug\TEMPLATE.pdb
+C:\Users\vyshak\Desktop\Final_DM_Project\10-APR-12-12-50\TEMPLATE\TEMPLATE\bin\Debug\ZipForge.dll
+C:\Users\vyshak\Desktop\Final_DM_Project\10-APR-12-12-50\TEMPLATE\TEMPLATE\bin\Debug\ZipForge.xml
+C:\Users\vyshak\Desktop\Final_DM_Project\10-APR-12-12-50\TEMPLATE\TEMPLATE\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\vyshak\Desktop\Final_DM_Project\10-APR-12-12-50\TEMPLATE\TEMPLATE\bin\Debug\Interop.WMPLib.dll
+C:\Users\vyshak\Desktop\Final_DM_Project\10-APR-12-12-50\TEMPLATE\TEMPLATE\bin\Debug\Interop.XcpControlLib.dll
+C:\Users\vyshak\Desktop\Final_DM_Project\10-APR-12-12-50\TEMPLATE\TEMPLATE\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\vyshak\Desktop\Final_DM_Project\10-APR-12-12-50\TEMPLATE\TEMPLATE\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\vyshak\Desktop\Final_DM_Project\10-APR-12-12-50\TEMPLATE\TEMPLATE\bin\Debug\AxInterop.XcpControlLib.dll
+C:\Users\vyshak\Desktop\Final_DM_Project\10-APR-12-12-50\TEMPLATE\TEMPLATE\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\vyshak\Desktop\Final_DM_Project\10-APR-12-12-50\TEMPLATE\TEMPLATE\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\vyshak\Desktop\Final_DM_Project\10-APR-12-12-50\TEMPLATE\TEMPLATE\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\vyshak\Desktop\Final_DM_Project\10-APR-12-12-50\TEMPLATE\TEMPLATE\obj\x86\Debug\Interop.XcpControlLib.dll
+C:\Users\vyshak\Desktop\Final_DM_Project\10-APR-12-12-50\TEMPLATE\TEMPLATE\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\vyshak\Desktop\Final_DM_Project\10-APR-12-12-50\TEMPLATE\TEMPLATE\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\vyshak\Desktop\Final_DM_Project\10-APR-12-12-50\TEMPLATE\TEMPLATE\obj\x86\Debug\AxInterop.XcpControlLib.dll
+C:\Users\vyshak\Desktop\Final_DM_Project\10-APR-12-12-50\TEMPLATE\TEMPLATE\obj\x86\Debug\TEMPLATE.csproj.ResolveComReference.cache
+C:\Users\vyshak\Desktop\Final_DM_Project\10-APR-12-12-50\TEMPLATE\TEMPLATE\obj\x86\Debug\TEMPLATE.Form1.resources
+C:\Users\vyshak\Desktop\Final_DM_Project\10-APR-12-12-50\TEMPLATE\TEMPLATE\obj\x86\Debug\TEMPLATE.Properties.Resources.resources
+C:\Users\vyshak\Desktop\Final_DM_Project\10-APR-12-12-50\TEMPLATE\TEMPLATE\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\vyshak\Desktop\Final_DM_Project\10-APR-12-12-50\TEMPLATE\TEMPLATE\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\vyshak\Desktop\Final_DM_Project\10-APR-12-12-50\TEMPLATE\TEMPLATE\obj\x86\Debug\TEMPLATE.exe
+C:\Users\vyshak\Desktop\Final_DM_Project\10-APR-12-12-50\TEMPLATE\TEMPLATE\obj\x86\Debug\TEMPLATE.pdb
+C:\Users\eashwar\Desktop\TEMPLATE\TEMPLATE\bin\Debug\TEMPLATE.exe
+C:\Users\eashwar\Desktop\TEMPLATE\TEMPLATE\bin\Debug\TEMPLATE.pdb
+C:\Users\eashwar\Desktop\TEMPLATE\TEMPLATE\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\eashwar\Desktop\TEMPLATE\TEMPLATE\bin\Debug\Interop.WMPLib.dll
+C:\Users\eashwar\Desktop\TEMPLATE\TEMPLATE\bin\Debug\Interop.XcpControlLib.dll
+C:\Users\eashwar\Desktop\TEMPLATE\TEMPLATE\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\eashwar\Desktop\TEMPLATE\TEMPLATE\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\eashwar\Desktop\TEMPLATE\TEMPLATE\bin\Debug\AxInterop.XcpControlLib.dll
+C:\Users\eashwar\Desktop\TEMPLATE\TEMPLATE\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\eashwar\Desktop\TEMPLATE\TEMPLATE\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\eashwar\Desktop\TEMPLATE\TEMPLATE\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\eashwar\Desktop\TEMPLATE\TEMPLATE\obj\x86\Debug\Interop.XcpControlLib.dll
+C:\Users\eashwar\Desktop\TEMPLATE\TEMPLATE\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\eashwar\Desktop\TEMPLATE\TEMPLATE\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\eashwar\Desktop\TEMPLATE\TEMPLATE\obj\x86\Debug\AxInterop.XcpControlLib.dll
+C:\Users\eashwar\Desktop\TEMPLATE\TEMPLATE\obj\x86\Debug\TEMPLATE.csproj.ResolveComReference.cache
+C:\Users\eashwar\Desktop\TEMPLATE\TEMPLATE\obj\x86\Debug\TEMPLATE.Form1.resources
+C:\Users\eashwar\Desktop\TEMPLATE\TEMPLATE\obj\x86\Debug\TEMPLATE.Properties.Resources.resources
+C:\Users\eashwar\Desktop\TEMPLATE\TEMPLATE\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\eashwar\Desktop\TEMPLATE\TEMPLATE\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\eashwar\Desktop\TEMPLATE\TEMPLATE\obj\x86\Debug\TEMPLATE.exe
+C:\Users\eashwar\Desktop\TEMPLATE\TEMPLATE\obj\x86\Debug\TEMPLATE.pdb
